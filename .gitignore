@@ -1,0 +1,24 @@
+# Private configuration and generated local artifacts
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.agents/
+.codex/
+*.db
+*.sqlite
+*.sqlite3
+*.wav
+*.mp3
+*.webm
+*.mp4
+*.pdf
+dist/
+build/
+.DS_Store
+Thumbs.db
